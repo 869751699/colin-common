@@ -1,2 +1,4 @@
 # colin-common
-公用js方法库
+
+公用 js 方法库
+haha
